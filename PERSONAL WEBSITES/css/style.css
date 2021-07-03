@@ -1,0 +1,35 @@
+body
+	{
+		background color: khaki;
+		
+	}
+
+
+a:link, a:visited
+	{
+		background-color: coral;
+		color:black;
+		text-decoration: underline;
+		 padding:20px;
+   		text-align: center;
+		display: inline-block;
+        outline-style: solid;
+        outline-color: white;
+		font-family: verdana;
+	}
+
+
+a:hover
+	{
+		color:maroon;
+		background-color:#EEE8AA;
+		text-decoration: underline;
+	}
+
+a:active
+	{
+		color: gold;
+		background-color: #BDB76B;
+		text-decoration: underline;
+	}
+
